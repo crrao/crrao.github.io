@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: CV
 permalink: /CV/
 ---
-<a href="/pdfs/RaoCV.pdf" class="image fit"></a>
+<a href="/pdfs/RaoCV.pdf" class="image fit" type="application/pdf"></a>
