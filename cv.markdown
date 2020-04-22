@@ -3,4 +3,4 @@ layout: page
 title: CV
 permalink: /CV/
 ---
-<a href="crrao.github.io/pdfs/RaoCV.pdf" class="image fit" type="application/pdf"></a>
+<object data="/pdfs/RaoCV.pdf" width="1000" height="1000" type="application/pdf"></object>
