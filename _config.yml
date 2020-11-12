@@ -1,3 +1,4 @@
 name: Chirag Rao, Space Cadet
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+exclude: blog
