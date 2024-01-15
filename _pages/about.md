@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# About Me
 
 Hello! I'm Chirag Rao, a fourth-year PhD student in the Laboratory for Information and Decision Systems (LIDS) at MIT. Currently, my focus is on low-latency satellite network design. In general, I'm interested in applying tools from probability, optimization, and machine learning to problems in networks and communication.
 
