@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Chirag Rao, a fourth-year PhD student in the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu) at MIT, where I am advised by [Prof. Eytan Modiano](https://modiano.mit.edu). I am also a computer engineer at the [Army Research Laboratory](https://arl.devcom.army.mil). Currently, my research focus is on designing low-latency satellite networks. In general, I'm interested in applying tools from probability, optimization, and machine learning to problems in networks and communication.
+Hello! I'm Chirag Rao, a fourth-year PhD student in the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu) at MIT, where I am advised by [Prof. Eytan Modiano](https://modiano.mit.edu). I am also a computer engineer at the [Army Research Laboratory](https://arl.devcom.army.mil). Currently, my research focus is on designing low-latency satellite networks. In general, I'm interested in analyzing problems in networks and communication, leveraging tools from probability, optimization, and machine learning.
 
 I received my master's degree in Aeronautics and Astronautics from MIT in 2022. Prior to joining MIT, I obtained a master's degree in Computer Science from Johns Hopkins University in 2018. I received a bachelor of science degree in Electrical and Computer Engineering from Cornell University in 2013.
 
