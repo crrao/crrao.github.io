@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,5 +14,4 @@ I received my master's degree in Aeronautics and Astronautics from MIT in 2022. 
 
 When I'm not at the lab, I'm usually hiking/biking/skiing around the New England Area, or experimenting in the kitchen: fermenting vegetables, making sourdough bread, brewing kombucha, or baking cakes. I'm also a white belt in Brazilian Jiu Jitsu.
 
-## CV
 You can find the latest version of my CV [here](https://crrao.github.io/files/RaoCV.pdf).
