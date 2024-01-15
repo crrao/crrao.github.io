@@ -17,7 +17,7 @@ main:
     
  # - title: "CV"
  #   url: /cv/
-  - title: "CV"
-    url: https://crrao.github.io/files/RaoCV.pdf
+ # - title: "CV"
+  #  url: https://crrao.github.io/files/RaoCV.pdf
  # - title: "Guide"
  #   url: /markdown/
